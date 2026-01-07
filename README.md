@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | AI Enthusiast | Problem Solver
 
-I'm a passionate developer who loves turning ideas into reality through code. My journey started at **FNB App Academy** and has been fueled by continuous learning through **CAPACITI** and **Project Y**.
+I'm a passionate developer who loves turning ideas into reality through code. My journey started at **FNB App Academy** and has been fueled by continuous learning through **CAPACITI**.
 
 ## 🚀 About Me
 
@@ -61,7 +61,7 @@ Interactive platform for creative expression and collaboration.
 - 🎨 Exploring advanced CSS animations and interactions
 - 🌐 Contributing to open-source projects
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] Contribute to 5+ open-source projects
 - [ ] Build a full-stack application with AI integration
