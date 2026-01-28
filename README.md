@@ -1,6 +1,6 @@
 # Hi there, I'm Aobakwe Modillane! 👋💖
 
-### Full Stack Developer | AI Enthusiast | Problem Solver
+### Full Stack Developer | Aspiring Data Engineer | Problem Solver
 
 I'm a passionate developer who loves turning ideas into reality through code. My journey started at **FNB App Academy** and has been fueled by continuous learning through **CAPACITI**.
 
